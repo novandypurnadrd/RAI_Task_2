@@ -1,0 +1,45 @@
+h2{
+		background-color: #ff0000;
+		padding: 30px 35px;
+		margin: -10px -50px;
+		text-align:center;
+		color: #fff;
+		font-family: cursive;
+		border-style: inset;
+		border-width: medium;
+		}
+h3{
+		background-color: #ffff00;
+		padding: 30px 35px;
+		margin: -10px -40px;
+		text-align: center;
+		color: #fff;
+		font-family: cursive;
+		border-style:inset;
+		border-width: medium;
+}
+h4{
+		background-color: #008000;
+		padding: 30px 35px;
+		margin: -10px -35px;
+		text-align: center;
+		color: #fff;
+		font-family: cursive;
+		border-style:inset;
+		border-width: medium;
+}
+
+table, td, th {
+    border: 1px solid blue;
+	margin: auto;
+}
+
+th {
+    background-color: blue;
+    color: white;
+	margin: auto;
+}
+
+a:hover {
+    color: #FF00FF;
+}
